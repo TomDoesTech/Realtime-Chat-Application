@@ -1,0 +1,60 @@
+.wrapper {
+  min-height: 100vh;
+  height: 100vh;
+  width: calc(100% - 200px);
+  display: flex;
+  flex-direction: column;
+}
+
+.messageList {
+  flex: 1;
+  overflow-y: scroll;
+  padding: 1rem;
+}
+
+.messageList ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.messageBox {
+  display: flex;
+  width: 100%;
+  background-color: rgba(256, 256, 256, 0.8);
+  padding: 1rem;
+}
+
+.messageBox textarea {
+  flex: 1;
+  padding: 1rem;
+  font-size: 1.25rem;
+}
+.messageBox button {
+  margin-left: 0.5rem;
+  background-color: blueviolet;
+  font-size: 1.25rem;
+}
+
+.message {
+  margin-bottom: 1rem;
+  padding: 1rem;
+  border-radius: 8px;
+  border: solid 2px #333;
+  font-size: 1.25rem;
+  background-color: rgba(256, 256, 256, 0.8);
+}
+
+.messageInner {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1rem;
+}
+
+.messageSender {
+  color: #333;
+  font-size: 0.75rem;
+}
+
+.messageBody {
+  word-wrap: break-word;
+}
