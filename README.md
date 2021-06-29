@@ -36,15 +36,12 @@ A chat application with rooms
 
 [Socket.io Emit cheatsheet](https://socket.io/docs/v3/emit-cheatsheet/index.html)
 
+## Support
+[Buy me a Coffee](https://www.buymeacoffee.com/tomn)
 
-🌎 Follow me here:
-Facebook: https://www.facebook.com/tomdoestech​
-Instagram: https://www.instagram.com/tomdoestech​
-Twitter: https://twitter.com/tomdoesntdotech​
-TikTok: https://www.tiktok.com/@tomdoestech
+[Sign up to DigitalOcean](https://m.do.co/c/1b74cb8c56f4) I 💖 DigitalOcean
 
-
-☕ Buy me a coffee: https://www.buymeacoffee.com/tomn
+[Subscribe on YouTube](https://www.youtube.com/channel/UClEEzwG7Tl3-8eY11Qytsog)
 
 ## Screenshots
 ### Home screen
