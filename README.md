@@ -36,6 +36,16 @@ A chat application with rooms
 
 [Socket.io Emit cheatsheet](https://socket.io/docs/v3/emit-cheatsheet/index.html)
 
+
+🌎 Follow me here:
+Facebook: https://www.facebook.com/tomdoestech​
+Instagram: https://www.instagram.com/tomdoestech​
+Twitter: https://twitter.com/tomdoesntdotech​
+TikTok: https://www.tiktok.com/@tomdoestech
+
+
+☕ Buy me a coffee: https://www.buymeacoffee.com/tomn
+
 ## Screenshots
 ### Home screen
 ![](./screenshots/1.png)
