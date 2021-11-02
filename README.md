@@ -50,3 +50,16 @@ A chat application with rooms
 ![](./screenshots/2.png)
 ### In chat
 ![](./screenshots/3.png)
+
+
+## Let's keep in touch
+- [Subscribe on YouTube](https://www.youtube.com/TomDoesTech)
+- [Discord](https://discord.gg/4ae2Esm6P7)
+- [Twitter](https://twitter.com/tomdoes_tech)
+- [TikTok](https://www.tiktok.com/@tomdoestech)
+- [Facebook](https://www.facebook.com/tomdoestech)
+- [Instagram](https://www.instagram.com/tomdoestech)
+
+[Buy me a Coffee](https://www.buymeacoffee.com/tomn)
+
+[Sign up to DigitalOcean 💖](https://m.do.co/c/1b74cb8c56f4)
